@@ -1,0 +1,1 @@
+{"jobID":"60e6975f-04fa-5ebf-65c6-05581ad20dc6","spec":{"type":"policy","cause":{"Message":"demo\n","User":"Karan Bhomia \u003ckaran@touchnote.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":null,"remove":{"locked":"true","locked_msg":"\"demo\\n\"","locked_user":"Karan Bhomia \u003ckaran@touchnote.com\u003e"}}}},"result":null}
